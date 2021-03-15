@@ -1,5 +1,6 @@
 # EmployeeManagement
 My first assignment
+My program is to manage the information of the employees that inport from the keyboard
 
         printf("=============== MENU ===============");
         printf("\n0. Show current list.");
@@ -9,7 +10,7 @@ My first assignment
         printf("\n4. Find employees information");
         printf("\n5. Write employees's information to file");
         printf("\n6. Exit");
- *Unresolved problems: - First time using file technique so execution doesn't smooth like I thoughted.
+ *Unresolved problems:- First time using file technique so execution doesn't smooth like I thoughted.
                       - Need to add more clear screen to make it more clarify.
                       - Clean code. How to name a variable.
                       - How to use pointer in the rightways.
