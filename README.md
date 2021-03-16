@@ -10,13 +10,10 @@ My program is to manage the information of the employees that inport from the ke
         printf("\n4. Find employees information");
         printf("\n5. Write employees's information to file");
         printf("\n6. Exit");
- *Unresolved problems:- First time using file technique so execution doesn't smooth like I thoughted.
-                      - Need to add more clear screen to make it more clarify.
+ *Unresolved problems:- First time using file technique. READ WRITE IN THE SAME TIME :) 
+                      - Need to add more cls("screen"); to make it more clarify.
                       - Clean code. How to name a variable.
                       - How to use pointer in the rightways.
-                      - Do I need to build a PC
-
-Thanks all, from zero, I can know how the computer work and how to code a program.
 Target:         -JAVA : MASTER 👊
                 -SWIFT: Optional
                 -UI/UX: Required
