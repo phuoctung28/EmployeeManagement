@@ -1,6 +1,5 @@
 # EmployeeManagement
-My first assignment
-My program is to manage the information of the employees that inport from the keyboard
+Manage the information of the employees that import from the keyboard
 
         printf("=============== MENU ===============");
         printf("\n0. Show current list.");
